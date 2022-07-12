@@ -1,0 +1,20 @@
+*, *:focus-visible {
+  background-color: black;
+  color: whitesmoke;
+  border: none;
+  font-family: 'Share Tech Mono', monospace;
+  box-shadow: none;
+}
+
+.oob {
+  color: gray;
+  font-size: 0.8rem;
+}
+.oob b {
+  font-size: 0.85rem;
+  color: rgb(131, 0, 0);
+  letter-spacing: 3px;
+}
+.block {
+  margin: 0 0 0 1vw;
+}
